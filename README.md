@@ -18,14 +18,13 @@ The dashboard contains six analytical pages, each focused on a different aspect 
 - Executive-level market insights
 
 ## 📑 Dashboard Pages
-
-| Page | Focus |
-| Overview | Overall AI labor market |
-| Skills | Skills demand and skill-driving companies |
-| Salary | Compensation and highest-paying roles |
-| Location | Geographic hiring and salary patterns |
-| Company | Company hiring and salary landscape |
-| Executive | Key metrics and executive insights |
+ 
+1. Overview - Overall AI labor market
+2. Skills - Skills demand and skill-driving companies
+3. Salary - Compensation and highest-paying roles
+4. Location - Geographic hiring and salary patterns
+5. Company - Company hiring and salary landscape
+6. Executive - Key metrics and executive insights
 
 ## 🛠️ Tools & Technologies
 
